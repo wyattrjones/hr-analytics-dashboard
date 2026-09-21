@@ -3,7 +3,7 @@
 An enterprise-grade Power BI dashboard built to analyze workforce metrics, track turnover trends, and evaluate the impact of overtime and departmental distribution.
 
 ## 📊 Executive HR Analytics Dashboard
-![HR Analytics Dashboard](hr_dashboard.png)
+![HR Analytics Dashboard](hr-analytics-dashboard-overview.png)
 * **Download Full Report:** [View HR Analytics Dashboard PDF](hr-analytics-dashboard-overview.pdf)
 
 ## 🔍 Key Performance Indicators (KPIs)
